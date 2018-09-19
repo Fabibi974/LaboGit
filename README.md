@@ -1,3 +1,4 @@
 # LaboGit
 
 Bonjour!
+Salut!
